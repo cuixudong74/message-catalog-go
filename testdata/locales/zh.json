@@ -1,0 +1,7 @@
+{
+  "greeting": "你好 {name}！",
+  "items": "{count, plural, one {# 个物品} other {# 个物品}}",
+  "gender": "{g, select, male {他喜欢} female {她喜欢} other {他们喜欢}}",
+  "escaped": "用 '{name}' 转义大括号，'' 是撇号",
+  "zh_only": "仅中文 {y}"
+}

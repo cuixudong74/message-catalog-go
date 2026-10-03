@@ -1,0 +1,8 @@
+{
+  "greeting": "Hello {name}!",
+  "items": "{count, plural, one {You have # item} other {You have # items}}",
+  "gender": "{g, select, male {He likes it} female {She likes it} other {They like it}}",
+  "escaped": "Use '{name}' to escape braces, '' is an apostrophe",
+  "only_en": "Only in English {x}",
+  "broken_plural": "{n, plural, one {# thing} other {# things}}"
+}
